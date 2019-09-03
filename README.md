@@ -43,8 +43,8 @@ At each stage, unless otherwise specified, upload (push) your materials to your 
 
 ## Setup
 
-0. Fork this repository to create a new version you can control.
-1. This will give you an online copy, but for editing purposes you'll definitely want a local copy on your computer. [Follow the cloning instructions](https://help.github.com/articles/cloning-a-repository/) for your operating system, making sure to put the cloned folder in a place on your computer where you can easily find it.
-2. Because sound files can take up a lot of space, we'll be using [Git Large File Storage](https://git-lfs.github.com/), an add-on service that lets you designate certain file extensions as worth tracking and storing off-site, rather than directly in your repository.
+1. Fork this repository to create a new version you can control.
+2. This will give you an online copy, but for editing purposes you'll definitely want a local copy on your computer. [Follow the cloning instructions](https://help.github.com/articles/cloning-a-repository/) for your operating system, making sure to put the cloned folder in a place on your computer where you can easily find it.
+3. Because sound files can take up a lot of space, we'll be using [Git Large File Storage](https://git-lfs.github.com/), an add-on service that lets you designate certain file extensions as worth tracking and storing off-site, rather than directly in your repository.
    * I've already set up this folder to track various sound files this way (including .mp3, .au, and .wav), but you'll need to install the LFS service to make it work.
    * Simply go to https://git-lfs.github.com, download, enter the command in step 1, and you're on your way: I've done step 2 for this repo, and there is no step 3!
